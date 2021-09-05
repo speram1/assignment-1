@@ -19,3 +19,6 @@ public class ObserverTest {
 		netflix.addMovie();
 	}
 }
+
+
+
